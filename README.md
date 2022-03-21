@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# require dependencies installation commands
+to install dependencies to run the project
+1: npm install
+2: npm install react react-dom --save
 ## Available Scripts
 
 In the project directory, you can run:
